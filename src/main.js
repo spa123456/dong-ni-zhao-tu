@@ -5,6 +5,8 @@ import request from './utils/request'
 Vue.config.productionTip = false
 Vue.prototype.$request = request
 
+
+// 测试
 App.mpType = 'app'
 
 const app = new Vue({
